@@ -1,7 +1,8 @@
 Multi-OS Automated Web Deployment Cluster
 Developed by Onyeka Obasiocha
 
-Project Overview
+  Project Overview
+  
 This project demonstrates my ability to automate web infrastructure deployment across a heterogeneous Linux environment. Using Vagrant for local virtualization and Bash scripting, I engineered a system where a single "Control Node" (scriptbox) orchestrates the configuration and deployment of a website to multiple remote nodes running different operating systems (CentOS and Ubuntu).
 
 Architecture
@@ -57,6 +58,8 @@ Troubleshooting & Security: Successfully resolved challenges regarding non-inter
 
 
 <img width="1366" height="768" alt="Screenshot from 2026-02-20 19-45-42" src="https://github.com/user-attachments/assets/311312f9-1d89-493d-a291-c0d63c8332aa" />
+
+
 
 <img width="1366" height="768" alt="Screenshot from 2026-02-20 19-45-13" src="https://github.com/user-attachments/assets/3cf37b9a-2b04-441d-b605-7cf97c14ada2" />
 

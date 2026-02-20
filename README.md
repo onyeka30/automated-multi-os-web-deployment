@@ -28,6 +28,7 @@ Folder Structure:
 ├── scripts/
 │   ├── webdeploy.sh           # Master script (runs on scriptbox)
 │   └── multios_websetup.sh    # Worker script (deployed to web nodes)
+
 ├── Vagrantfile                # Your VM configuration
 ├── remhosts                   # List of target IP/Hostnames
 └── README.md                  # Project documentation
